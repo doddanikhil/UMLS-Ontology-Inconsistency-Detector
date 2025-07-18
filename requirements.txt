@@ -1,0 +1,12 @@
+# Python Packages
+pandas==2.2.1
+networkx==3.2.1
+matplotlib==3.8.2
+seaborn==0.13.2
+jupyter==1.0.0
+
+# System Requirement
+# Java is required to run the UMLS MetamorphoSys tool
+# Download from: https://www.java.com/en/download/
+# Or install via Homebrew (Mac): brew install openjdk
+#UML.ipynb is running python 3.13
